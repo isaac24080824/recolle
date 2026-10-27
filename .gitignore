@@ -1,0 +1,15 @@
+.build/
+dist/
+.DS_Store
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+.env
+.env.*
+*.p12
+*.p8
+*.mobileprovision
+*.dSYM/

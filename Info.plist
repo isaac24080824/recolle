@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>CFBundleName</key><string>Recolle</string>
+  <key>CFBundleDisplayName</key><string>Recolle</string>
+  <key>CFBundleIdentifier</key><string>fr.isaac.recolle</string>
+  <key>CFBundleExecutable</key><string>Recolle</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleShortVersionString</key><string>1.2.1</string>
+  <key>CFBundleVersion</key><string>5</string>
+  <key>CFBundleIconFile</key><string>AppIcon</string>
+  <key>LSMinimumSystemVersion</key><string>14.0</string>
+  <key>NSHighResolutionCapable</key><true/>
+  <key>NSPrincipalClass</key><string>NSApplication</string>
+  <key>NSPasteboardUsageDescription</key><string>Recolle enregistre vos nouvelles copies sur ce Mac afin de vous permettre de les retrouver dans votre historique.</string>
+  <key>LSApplicationCategoryType</key><string>public.app-category.productivity</string>
+</dict></plist>
